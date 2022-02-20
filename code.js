@@ -5,4 +5,4 @@ function matchingStrings(strings,queries){
     }
     return arr
   }
-  console.log(matchingStrings(['aba','baba','aba','xzxb'],['aba','xzxb','ab']))
+document.write(matchingStrings(['aba','baba','aba','xzxb'],['aba','xzxb','ab']))
